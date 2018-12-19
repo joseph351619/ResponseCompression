@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\ResponseCompression\bin\Debug\netcoreapp2.1\ResponseCompression.deps.json
+C:\Users\USER\Desktop\ResponseCompression\bin\Debug\netcoreapp2.1\ResponseCompression.runtimeconfig.json
+C:\Users\USER\Desktop\ResponseCompression\bin\Debug\netcoreapp2.1\ResponseCompression.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ResponseCompression\bin\Debug\netcoreapp2.1\ResponseCompression.dll
+C:\Users\USER\Desktop\ResponseCompression\bin\Debug\netcoreapp2.1\ResponseCompression.pdb
+C:\Users\USER\Desktop\ResponseCompression\obj\Debug\netcoreapp2.1\ResponseCompression.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ResponseCompression\obj\Debug\netcoreapp2.1\ResponseCompression.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ResponseCompression\obj\Debug\netcoreapp2.1\ResponseCompression.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\ResponseCompression\obj\Debug\netcoreapp2.1\ResponseCompression.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\ResponseCompression\obj\Debug\netcoreapp2.1\ResponseCompression.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ResponseCompression\obj\Debug\netcoreapp2.1\ResponseCompression.AssemblyInfo.cs
+C:\Users\USER\Desktop\ResponseCompression\obj\Debug\netcoreapp2.1\ResponseCompression.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\ResponseCompression\obj\Debug\netcoreapp2.1\ResponseCompression.dll
+C:\Users\USER\Desktop\ResponseCompression\obj\Debug\netcoreapp2.1\ResponseCompression.pdb

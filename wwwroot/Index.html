@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CSP Sample</title>
+
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link rel="stylesheet" href="https://blog.johnwu.cc/css/fonts.css" />
+</head>
+
+<body>
+    <h1>CSP Sample</h1>
+    <table>
+        <tr>
+            <th>類別</th>
+            <th>內部資源</th>
+            <th>外部資源</th>
+        </tr>
+        <tr>
+            <td>圖片</td>
+            <td>
+                <img width="100" src="/images/icon.png" />
+            </td>
+            <td>
+                <img width="100" src="https://blog.johnwu.cc/images/icon.png" />
+            </td>
+        </tr>
+        <tr>
+            <td>IFrame</td>
+            <td>
+                <iframe width="180" height="180" src="/home/iframe.html"></iframe>
+            </td>
+            <td>
+                <iframe width="180" height="180" src="https://ithelp.ithome.com.tw"></iframe>
+            </td>
+        </tr>
+    </table>
+    <script src="/js/jquery-2.2.4.min.js"></script>
+    <script src="https://blog.johnwu.cc/js/lib/jquery-2.2.4.min.js"></script>
+</body>
+
+</html>
